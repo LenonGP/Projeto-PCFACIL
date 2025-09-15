@@ -45,7 +45,7 @@ Software de diagnóstico e solução de problemas para usuários iniciantes ou s
 - [@Ernesto Buzatti]()
 - [@Gabriel Azevedo](https://github.com/gabrielmazui)
 - [@Guilherme Molina](https://github.com/Guimolinanilson)
-- [@Silveira]()
+- [@Marcus Silveira](https://github.com/Silveira3910)
 - [@Gabriel ]()
 
 
