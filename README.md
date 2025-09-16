@@ -41,11 +41,11 @@ Software de diagnóstico e solução de problemas para usuários iniciantes ou s
 - [@Lenon Paranhos](https://github.com/LenonGP)
 - [@Frederico Sicorra](https://github.com/FredericoSSicorra)
 - [@Gabriela Bernardoni](https://github.com/GabrielaBernardoni)
-- [@Arthur Kohl]()
+- [@Arthur Kohl](https://github.com/ArthurKohl)
 - [@Ernesto Buzatti]()
 - [@Gabriel Azevedo](https://github.com/gabrielmazui)
 - [@Guilherme Molina](https://github.com/Guimolinanilson)
 - [@Marcus Silveira](https://github.com/Silveira3910)
-- [@Gabriel ]()
+- [@Gabriel Pivetta](https://github.com/GabrielPivetta)
 
 
