@@ -5,7 +5,7 @@ import json
 # CONFIGURAÇÃO DA API GEMINI
 
 
-GEMINI_API_KEY = "AIzaSyDUpp8o5i1scnu2SXRu4X6Ih52-bZGzPLU"
+GEMINI_API_KEY = "insira_sua_chave_aqui "
 
 
 def montar_prompt_para_ia(diagnosticos):
